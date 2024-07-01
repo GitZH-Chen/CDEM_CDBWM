@@ -5,6 +5,7 @@
 % University of Trento
 % ​via Sommarive 9, 38123 Povo-Trento, Italy
 
+addpath('./Cholesky_utilites/')
 % Clear workspace and command window
 clear;
 clc;

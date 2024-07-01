@@ -1,10 +1,3 @@
-% Author: Zihen Chen
-% Date: 2024.06.28
-% Email:ziheng_ch@163.com
-% Dept. of Information Engineering and Computer Science
-% University of Trento
-% ​via Sommarive 9, 38123 Povo-Trento, Italy
-
 function G_dem = geodesic_dem(L, X, t, theta)
     trilL = tril(L, -1);
     trilX = tril(X, -1);
