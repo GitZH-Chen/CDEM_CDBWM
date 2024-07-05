@@ -15,7 +15,7 @@ If you find this project helpful, please consider citing us as follows:
   year={2024}
 }
 ```
-## Experiments on the SPDNet
+## Experiments
 
 This is the Matlab code to  
 
