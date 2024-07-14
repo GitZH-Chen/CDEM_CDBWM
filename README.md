@@ -11,8 +11,7 @@ If you find this project helpful, please consider citing us as follows:
   title={Product Geometries on Cholesky Manifolds with Applications to SPD Manifolds}, 
   author={Ziheng Chen and Yue Song and Xiao-Jun Wu and Nicu Sebe},
   year={2024},
-  journal={arXiv preprint arXiv:2407.02607},
-  year={2024}
+  journal={arXiv preprint arXiv:2407.02607}
 }
 ```
 ## Experiments
